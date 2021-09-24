@@ -1,0 +1,10 @@
+--- Avancée projet 4 ---
+
+Etape 1 : cleaning de la bdd, élimination features redondants, doublons, valeurs manquantes,
+	  création datetime, création colonnes: 'année'/'mois'/'jour'. OK
+
+Etape 2 : classification RFM (recensy, frequency, monetary value) 
+
+Etape 3 : Clustering sur classif RFM : K-means, DBscan, dendrogramme
+
+Etape 4 : Contrat de maintenance, quand est ce qu'il faut revoir la classif selon datetime
